@@ -79,7 +79,6 @@ elsif ($Command eq "status")
 	if ($running ne "")
 	{
 		print("OpenRCT2 Server Running\n");
-print "running = '$running'\n";
 	}
 	else
 	{
